@@ -1,3 +1,3 @@
 # my-awesome
-This is my first Repository
+This is my first Repository.
 Aurthor-Rahul Kumar 
